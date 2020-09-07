@@ -1,0 +1,11 @@
+.cont4 .tab{background: url(//game.gtimg.cn/images/cfhd/cp/a20200810jizhan/tab1.png) no-repeat;width: 1200px;height: 757px;margin:0 auto;overflow: hidden;}
+.cont4 .tab ul{width: 1032px;height: 570px;margin:80px auto 0;}
+.cont4 .tab .tab-inner{margin-top:20px}
+.cont4 .tab li span{width: 314px;display: inline-block;text-align: center;line-height: 70px;color:#ffb633;font-size: 20px;;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}
+.cont4 .tab li .second{width: 377px;}
+.cont4 .tab li .name{color:#fff;font-weight: bold;font-size: 28px;}
+.cont4 .page{text-align: center;color:#dfe0e2}
+.cont4 .page span{display: inline-block;margin:5px;cursor: pointer;}
+.cont4 .up{padding:5px;background: #2b394f;border:1px solid #354b6a;}
+.cont4 .next{padding:5px;background: #2b394f;border:1px solid #354b6a;}
+.cont4 .now,.cont4 .total{padding:5px;background: #2b394f;border:1px solid #354b6a;}
